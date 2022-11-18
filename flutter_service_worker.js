@@ -50,9 +50,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "2cdb7afa7791abdba48701acfa37e128",
-"/": "2cdb7afa7791abdba48701acfa37e128",
-"main.dart.js": "f2afcea210cd39514c95454561818e6a",
+"index.html": "d9cf43466bed02f4f285d28828aafba1",
+"/": "d9cf43466bed02f4f285d28828aafba1",
+"main.dart.js": "b1719f00bad25794f89e3d330ae1f8c3",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
