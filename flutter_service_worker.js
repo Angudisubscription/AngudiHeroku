@@ -48,12 +48,11 @@ const RESOURCES = {
 "assets/packages/nb_utils/fonts/LineAwesome.ttf": "bcc78af7963d22efd760444145073cd3",
 "assets/shaders/ink_sparkle.frag": "dabaa63229e255a01a560b5cad18a0df",
 "favicon.png": "e131bdcc900354740c74c46d0d6895ac",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "f30b3c30be10a50e00f4f945efb794fe",
-"/": "f30b3c30be10a50e00f4f945efb794fe",
-"main.dart.js": "3e4ea9a8ba5a4c924249419cdf0207b1",
+"index.html": "23f86886c16c85c34654525f7d2b8c50",
+"/": "23f86886c16c85c34654525f7d2b8c50",
+"main.dart.js": "bd761131509228e7881ab3dc7a279c35",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
