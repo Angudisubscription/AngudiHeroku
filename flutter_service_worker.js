@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9c8ce1a7cca281f4aa1336629c168388",
+  "assets/AssetManifest.json": "8adfb0b6b2dd45d713725c49f01061fb",
 "assets/FontManifest.json": "a0a3437493bda9ea6dd0975490a2e100",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/app_Icon.jpg": "fc76507583aff5e052b7edbdd80b6b91",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/images/chili.png": "3593accc88666b3ed8d6a61c325c8cce",
 "assets/images/coupons.png": "a37b365bef1695cc4c8a36fe30beb126",
 "assets/images/empty_image_placeholder.jpg": "588d9346b5f8bacef5cce7c184d6ec6d",
+"assets/images/featured.gif": "5c47b3c6d01bb095d7bc69e94274658f",
 "assets/images/flag/ic_ar.png": "ead63c82d77a99b1c50230f75153b47f",
 "assets/images/flag/ic_india.png": "a5f4b487e6b01ff36c6ab3b0017ad34d",
 "assets/images/flag/ic_us.png": "da547d78f0813ecfca786901eca9e9a5",
@@ -50,9 +51,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "d9cf43466bed02f4f285d28828aafba1",
-"/": "d9cf43466bed02f4f285d28828aafba1",
-"main.dart.js": "b1719f00bad25794f89e3d330ae1f8c3",
+"index.html": "f30b3c30be10a50e00f4f945efb794fe",
+"/": "f30b3c30be10a50e00f4f945efb794fe",
+"main.dart.js": "3e4ea9a8ba5a4c924249419cdf0207b1",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
