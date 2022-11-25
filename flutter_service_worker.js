@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8adfb0b6b2dd45d713725c49f01061fb",
+  "assets/AssetManifest.json": "4ee97ab838bcfa84675ae5a3805ba8f7",
 "assets/FontManifest.json": "a0a3437493bda9ea6dd0975490a2e100",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/app_Icon.jpg": "fc76507583aff5e052b7edbdd80b6b91",
@@ -20,6 +20,7 @@ const RESOURCES = {
 "assets/images/ic_line.png": "e4c5807e78313f6f4085615fc4bcce27",
 "assets/images/language.png": "dd43587135f3beaa0e07218c0ca31389",
 "assets/images/no_data.png": "41f3e5c7cde56fe993c17273a4634f3e",
+"assets/images/no_offers.png": "7f1d3fc9145f6c5fc0fed276e0703cab",
 "assets/images/paper.png": "504387cf6c809c50f41e7e24cd1a510f",
 "assets/images/place_holder.jpg": "18447e3603cbb04f4e6a270d171db803",
 "assets/images/referral.png": "bfe91fa5c1bc6351021ba31154b1d018",
@@ -50,9 +51,9 @@ const RESOURCES = {
 "favicon.png": "e131bdcc900354740c74c46d0d6895ac",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "23f86886c16c85c34654525f7d2b8c50",
-"/": "23f86886c16c85c34654525f7d2b8c50",
-"main.dart.js": "bd761131509228e7881ab3dc7a279c35",
+"index.html": "a7169b43c16fc362dabc1c5e1d764360",
+"/": "a7169b43c16fc362dabc1c5e1d764360",
+"main.dart.js": "961106884dd74b7bb48bb44806e43c12",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
