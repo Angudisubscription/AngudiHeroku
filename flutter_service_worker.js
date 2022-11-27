@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/images/ic_line.png": "e4c5807e78313f6f4085615fc4bcce27",
 "assets/images/language.png": "dd43587135f3beaa0e07218c0ca31389",
 "assets/images/no_data.png": "41f3e5c7cde56fe993c17273a4634f3e",
-"assets/images/no_offers.png": "7f1d3fc9145f6c5fc0fed276e0703cab",
+"assets/images/no_offers.png": "de8141d7066e01e7dc07f8029d6cd525",
 "assets/images/paper.png": "504387cf6c809c50f41e7e24cd1a510f",
 "assets/images/place_holder.jpg": "18447e3603cbb04f4e6a270d171db803",
 "assets/images/referral.png": "bfe91fa5c1bc6351021ba31154b1d018",
@@ -53,9 +53,9 @@ const RESOURCES = {
 "favicon.png": "e131bdcc900354740c74c46d0d6895ac",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "06d3b60f1f17e55a04182e29eb9b0b28",
-"/": "06d3b60f1f17e55a04182e29eb9b0b28",
-"main.dart.js": "52f6acbe721fb9ffd39b1610bb7ecaa6",
+"index.html": "f3fa0295908877ff939f862df6389b95",
+"/": "f3fa0295908877ff939f862df6389b95",
+"main.dart.js": "eba3c57db97c617c6dbb4f85f0741bb1",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
