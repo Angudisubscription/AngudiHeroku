@@ -53,9 +53,9 @@ const RESOURCES = {
 "favicon.png": "e131bdcc900354740c74c46d0d6895ac",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "ee0b03ce587da419765982814ea64fa6",
-"/": "ee0b03ce587da419765982814ea64fa6",
-"main.dart.js": "01de32dc183f70ea5201eacf28fb67b2",
+"index.html": "06d3b60f1f17e55a04182e29eb9b0b28",
+"/": "06d3b60f1f17e55a04182e29eb9b0b28",
+"main.dart.js": "52f6acbe721fb9ffd39b1610bb7ecaa6",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
