@@ -30,17 +30,32 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>Angudi</title>
+  <title>Angudi - A Business Companion</title>
   <link rel="manifest" href="manifest.json">
-
+  <style>
+    .container {
+       width: 100vw;
+       height: 100vh;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       position: relative;
+    }
+    .loading-image {
+       width: 60%;
+    }
+  </style>
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '981602251';
+    var serviceWorkerVersion = '1981957084';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
+<div class="container" id="loading_indicator">
+  <img class="loading-image" src="./icons/loading.gif" />
+</div>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js

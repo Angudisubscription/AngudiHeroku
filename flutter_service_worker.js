@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bd5fb2dedc27238c62b4024409c768f9",
+  "assets/AssetManifest.json": "e9561802246f2abf5fef7c8c41d4827d",
 "assets/FontManifest.json": "a0a3437493bda9ea6dd0975490a2e100",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/app_Icon.jpg": "fc76507583aff5e052b7edbdd80b6b91",
@@ -25,9 +25,11 @@ const RESOURCES = {
 "assets/images/place_holder.jpg": "18447e3603cbb04f4e6a270d171db803",
 "assets/images/referral.png": "bfe91fa5c1bc6351021ba31154b1d018",
 "assets/images/rewards.png": "d98a24c16eab4c679135384f82e9ece7",
+"assets/images/store%2520loading.gif": "59e828c0c3b73645442b6a7a1918e7aa",
 "assets/images/store.png": "fa32f1b61fca4668309af58f8984deb9",
 "assets/images/success.png": "59c23d1c0bef6c023f80d159d23734af",
 "assets/images/theme.png": "fbfc064c056d9d6ddb77a8cb2160b2e4",
+"assets/images/wallet.png": "d37f0fc14b137c430c03786b1e116d07",
 "assets/NOTICES": "7ed170cdcb61b2f749fa177de459aa9b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -53,9 +55,11 @@ const RESOURCES = {
 "favicon.png": "e131bdcc900354740c74c46d0d6895ac",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
 "icons/angudi-512.png": "c57b225291d555e86463d6a18ec4f914",
-"index.html": "6cd5f53d037999849385d55ab350a24c",
-"/": "6cd5f53d037999849385d55ab350a24c",
-"main.dart.js": "7edc0e068a44349f12befe895571367e",
+"icons/loading.gif": "59e828c0c3b73645442b6a7a1918e7aa",
+"icons/wallet.png": "d37f0fc14b137c430c03786b1e116d07",
+"index.html": "9e850112aa115f99b048dac725f63183",
+"/": "9e850112aa115f99b048dac725f63183",
+"main.dart.js": "2db048bfebb0a5c0b891c451dde619e0",
 "manifest.json": "f5e9a9a4106f71c7a3605222997fc2ab",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
