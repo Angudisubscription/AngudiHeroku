@@ -53,10 +53,6 @@ const RESOURCES = {
 "assets/packages/flutter_vector_icons/fonts/Zocial.ttf": "5cdf883b18a5651a29a4d1ef276d2457",
 "assets/packages/nb_utils/fonts/LineAwesome.ttf": "bcc78af7963d22efd760444145073cd3",
 "assets/shaders/ink_sparkle.frag": "dabaa63229e255a01a560b5cad18a0df",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "favicon.png": "e131bdcc900354740c74c46d0d6895ac",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/angudi-192.png": "675a7b26bba4752cb1e60a68a3b75594",
@@ -64,9 +60,9 @@ const RESOURCES = {
 "icons/indian_food_icon.webp": "8c67ed359dd447a7ac9bc73434c45f33",
 "icons/loading.gif": "59e828c0c3b73645442b6a7a1918e7aa",
 "icons/wallet.png": "d37f0fc14b137c430c03786b1e116d07",
-"index.html": "e05848569d50384964413a6f2d4909ae",
-"/": "e05848569d50384964413a6f2d4909ae",
-"main.dart.js": "4fb8ef357347cfa20e1eeb3fb2b99ddf",
+"index.html": "0b79fdc149f733e80cc8b7c8f05e6eb8",
+"/": "0b79fdc149f733e80cc8b7c8f05e6eb8",
+"main.dart.js": "73287b5597cc0d37316e5a2d5f346d71",
 "manifest.json": "6acedee97a95005c90858412d4360ab2",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
