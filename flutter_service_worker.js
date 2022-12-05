@@ -60,9 +60,9 @@ const RESOURCES = {
 "icons/indian_food_icon.webp": "8c67ed359dd447a7ac9bc73434c45f33",
 "icons/loading.gif": "59e828c0c3b73645442b6a7a1918e7aa",
 "icons/wallet.png": "d37f0fc14b137c430c03786b1e116d07",
-"index.html": "8a1cf1d480e924c1b93d3935c6933d96",
-"/": "8a1cf1d480e924c1b93d3935c6933d96",
-"main.dart.js": "b58a97f51b974ab0a15689ed7be9f61d",
+"index.html": "c37df3d9716004aafcaff8430e54cf68",
+"/": "c37df3d9716004aafcaff8430e54cf68",
+"main.dart.js": "f92f1d53cd5358b4adb5cd624af77230",
 "manifest.json": "6acedee97a95005c90858412d4360ab2",
 "version.json": "db21b2b85f6171c61a153bafe650c7fd"
 };
